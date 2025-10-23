@@ -16,5 +16,11 @@
         "key": "ARISEVIP",
         "expirydate": "15-011-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "c9aababeccb96d27",
+        "key": "rex",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
