@@ -1,0 +1,14 @@
+[
+    {
+        "device_id": "2e46621faed8f44d",
+        "key": "ARISEVIP",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+]
