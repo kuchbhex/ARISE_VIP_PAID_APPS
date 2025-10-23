@@ -14,13 +14,13 @@
     {
         "device_id": "2e46621faed8f44d",
         "key": "ARISEVIP",
-        "expirydate": "15-011-2025",
+        "expirydate": "15-11-2025",
         "Allowoffline": false
     },
 {
         "device_id": "c9aababeccb96d27",
         "key": "rex",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-11-2025",
         "Allowoffline": false
     }
 ]
